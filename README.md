@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="100%" src="./gif.svg"/>
+<img align="center" width="100%" height="100%" src="https://github.com/paulosmlins/paulosmlins/blob/main/gif.svg"/>
 <h1 align="left">
 Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is Paulo Lins 🦄 </h1>
 
