@@ -8,7 +8,7 @@ Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi
 
 <br/>
 
-## 🦄 &nbsp;Contact locations: </h2>
+## 🦄 &nbsp;Contact locations:
 
 <a href="https://linkedin.com/in/paulosmlins">
   <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -29,7 +29,7 @@ Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi
 <br/>
 <br/>
 
-## 🛠 &nbsp;Known technologies
+## 🛠 &nbsp;Known technologies:
 
 <h4>🖤 &nbsp;Language i feel comfortable working with:</h2>
 
