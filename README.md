@@ -1,6 +1,6 @@
 <img align="center" width="100%" height="100%" src="https://raw.githubusercontent.com/paulosmlins/paulosmlins/main/gif.svg?sanitize=true"/>
 <h1 align="left">
-Hi <img src="https://tenor.com/pt-BR/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626" width="30px">, my name is Paulo Lins 🦄 </h1>
+Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, my name is Paulo Lins 🦄 </h1>
 
 - 🌈 &nbsp; I’m currently learning **JavaScript, TypeScript, Swift, ReactJS, Svelte**
 
