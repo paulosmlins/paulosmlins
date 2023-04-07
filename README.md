@@ -13,10 +13,10 @@ Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi
 <a href="https://linkedin.com/in/paulosmlins">
   <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://github.com/paulosmlins">
+<a href="https://github.com/pinkc0des">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://twitter.com/paulosmlins">
+<a href="https://twitter.com/pinkc0des">
   <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <a href="https://instagram.com/paulosmlins">
@@ -56,6 +56,6 @@ Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi
 
 ### ☎️ &nbsp;Other contact places:
 
-<a href="https://www.twitch.tv/paulosmlins">
+<a href="https://www.twitch.tv/pinkcodes">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
