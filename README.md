@@ -19,7 +19,7 @@ Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"
 <a target="_blank" href="https://twitter.com/pinkc0des">
   <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a target="_blank" href="https://instagram.com/paulosmlins">
+<a target="_blank" href="https://instagram.com/pinkc0des">
  <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="mailto:paulosilas02@hotmail.com">
