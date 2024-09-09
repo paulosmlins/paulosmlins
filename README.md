@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="100%" src="https://raw.githubusercontent.com/paulosmlins/paulosmlins/main/gif.svg?sanitize=true"/>
+<!--<img align="center" width="100%" height="100%" src="https://raw.githubusercontent.com/paulosmlins/paulosmlins/main/gif.svg?sanitize=true"/>-->
 <h1 align="left">
 Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, my name is Paulo Lins 🦄 </h1>
 
