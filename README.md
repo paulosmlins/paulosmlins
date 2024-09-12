@@ -2,7 +2,7 @@
 <h1 align="left">
 Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, my name is Paulo Lins 🦄 </h1>
 
-- 🌈 &nbsp; I’m currently learning **JavaScript, TypeScript, ReactJS, NextJS, VueJS, Flutter**
+- 🌈 &nbsp; I’m currently learning **JavaScript, TypeScript, ReactJS, React Native, NextJS, VueJS**
 
 - 🍩 &nbsp; I'm a Brazilian **front-end** developer and **UI designer**
 
