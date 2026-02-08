@@ -52,7 +52,3 @@ With a background that combines **technical precision** and **UI/UX sensibility*
 <a href="https://www.twitch.tv/pinkcodes" target="_blank">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
-
----
-
-<h3 align="center">✨ Thanks for stopping by — see you around! ✨</h3>
